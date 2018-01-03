@@ -159,6 +159,38 @@ html,body{
   background: rgb(255,255,255) !important;
   color: rgba(8,66,160,1);
 }
+
+.wbb-hamburger{
+ height: 64px !important;
+ line-height: 64px !important;
+ font-size: 2rem !important;
+}
+
+.wbb-side-nav{
+ width: 60% !important;
+ background: url("../resources/bg_grey_mob.png");
+}
+
+.wbb-side-nav li{
+ line-height: 64px !important;
+ padding: 4px 0;
+}
+
+.wbb-side-nav li a{
+ height: 64px !important;
+ font-size: 1rem !important;
+ color: rgba(8,66,160,1) !important;
+}
+
+.wbb-dev{
+  background: url('../resources/tww.svg');
+  font-size: 2em;
+  width: 40px;
+  height: 100%;
+  margin-top: 18px;
+  padding-bottom:8px;
+  background-repeat: no-repeat;
+}
 /* medium screens*/
 @media ( min-width: 532px ) and (max-width: 900px){
 
@@ -186,6 +218,16 @@ html,body{
     font-size: 1.5rem !important;
     color: rgba(8,66,160,1) !important;
   }
+
+  .wbb-dev{
+    background: url('../resources/tww.svg');
+    font-size: 2em;
+    width: 60px;
+    height: 100%;
+    margin-top: 18px;
+    padding-bottom:8px;
+    background-repeat: no-repeat;
+  }
 }
 /* small screens*/
 @media (max-width: 531px) {
@@ -196,6 +238,41 @@ html,body{
   #carousel-laptop{
     display: none;
   }
+  .wbb-hamburger{
+   height: 64px !important;
+   line-height: 64px !important;
+   font-size: 2rem !important;
+ }
+
+ .wbb-side-nav{
+   width: 60% !important;
+   background: url("../resources/bg_grey_mob.png");
+ }
+
+ .wbb-side-nav li{
+   line-height: 64px !important;
+   padding: 4px 0;
+ }
+
+ .wbb-side-nav li a{
+   height: 64px !important;
+   font-size: 1rem !important;
+   color: rgba(8,66,160,1) !important;
+ }
+
+ .wbb-toast{
+   width: 100% !important;
+   font-size: 35px !important;
+ }
+ .wbb-dev{
+   background: url('../resources/tww.svg');
+   font-size: 2em;
+   width: 60px;
+   height: 100%;
+   margin-top: 18px;
+   padding-bottom:8px;
+   background-repeat: no-repeat;
+ }
 
 }
 /* mobile screens*/
@@ -278,6 +355,15 @@ html,body{
     width: 100% !important;
     font-size: 35px !important;
   }
+  .wbb-dev{
+    background: url('../resources/tww.svg');
+    font-size: 2em;
+    width: 70px;
+    height: 100%;
+    margin-top: 18px;
+    padding-bottom:8px;
+    background-repeat: no-repeat;
+  }
 }
 
 /*tablet screens*/
@@ -346,5 +432,14 @@ html,body{
   .wbb-toast{
     width: 100% !important;
     font-size: 35px !important;
+  }
+  .wbb-dev{
+    background: url('../resources/tww.svg');
+    font-size: 2em;
+    width: 90px;
+    height: 100%;
+    margin-top: 18px;
+    padding-bottom:8px;
+    background-repeat: no-repeat;
   }
 }

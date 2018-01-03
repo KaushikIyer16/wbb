@@ -32,7 +32,7 @@
     <?php include 'links.php'; ?>
     <style media="screen">
 
-    
+
 
     </style>
   </head>
@@ -156,7 +156,7 @@
 
       <?php
         if ($errorCode != 1) {
-          echo "Materialize.toast('Query Submitted Successfully!', 5000, 'rounded wbb-toast');";
+          echo "Materialize.toast('Query Submitted Successfully!', 10000, 'rounded wbb-toast');";
           $errorCode = 1;
         }
        ?>
