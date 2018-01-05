@@ -213,7 +213,14 @@
     <script src="./js/jquery.js" charset="utf-8"></script>
     <script src="./js/materialize.min.js" charset="utf-8"></script>
     <script type="text/javascript">
+      var currentSong = null;
       function playSong(songName) {
+          if (currentSong !=null) {
+            var curr = document.getElementById(currentSong);
+            curr.pause();
+            curr.currentTime = 0;
+          }
+          currentSong = songName;
           var chant = document.getElementById(songName);
           chant.play();
       }

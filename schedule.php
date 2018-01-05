@@ -11,6 +11,7 @@
   </head>
   <body>
     <?php include 'header.php'; ?>
+    <h2 style="text-align:center;">ನಮ್ಮ ತಂಡ, ನಮ್ಮ ಹೆಮ್ಮೆ!</h2>
 	<section id="cd-timeline" class="cd-container">
 
 		<div class="cd-timeline-block">
@@ -48,7 +49,7 @@
 			<div class="cd-timeline-content">
         <img src="./resources/teams/fcg.png" alt="" style="" class="wbb-home">
         <img src="./resources/teams/bfc.png" alt="" class="wbb-away">
-				<span class="cd-date">Final Score: 3-4</span>
+				<span class="cd-date">Final Score: 4-3</span>
 			</div>
 		</div>
 
@@ -101,14 +102,14 @@
 		</div>
 
     <div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
+			<div class="cd-timeline-img cd-picture green">
 				<i class="fa fa-2x fa-plane wbb-home-logo fa-fw" aria-hidden="true"></i>
 			</div>
 
 			<div class="cd-timeline-content">
         <img src="./resources/teams/kb.png" alt="" style="" class="wbb-home">
         <img src="./resources/teams/bfc.png" alt="" class="wbb-away">
-				<span class="cd-date">Dec 31</span>
+				<span class="cd-date">Final Score: 1-3</span>
 			</div>
 		</div>
 

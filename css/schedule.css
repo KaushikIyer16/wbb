@@ -15,6 +15,9 @@ body{
 .wbb-home-logo{
   color: white;
 }
+h2{
+  color: rgba(48,66,160,1);
+}
 /* --------------------------------
 
 Main components

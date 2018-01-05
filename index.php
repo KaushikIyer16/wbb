@@ -45,15 +45,25 @@
         <div class="row">
           <div class="col l12 m12 s12">
             <div class="carousel carousel-slider center" data-indicators="true">
-            <!-- <div class="carousel-item red white-text" href="#one!">
-              <img src="./resources/car4.jpg" alt="">
-            </div> -->
+            <div class="carousel-item red white-text" href="#one!">
+              <img src="./resources/carousel/car1.jpg" alt="">
+            </div>
             <div class="carousel-item amber white-text" href="#two!">
-              <img src="./resources/car2.jpg" alt="">
+              <img src="./resources/carousel/car2.jpg" alt="">
             </div>
             <div class="carousel-item green white-text" href="#three!">
-              <img src="./resources/car3.jpg" alt="">
+              <img src="./resources/carousel/car3.jpg" alt="">
             </div>
+            <div class="carousel-item red white-text" href="#one!">
+              <img src="./resources/carousel/car4.jpg" alt="">
+            </div>
+            <div class="carousel-item amber white-text" href="#two!">
+              <img src="./resources/carousel/car5.jpg" alt="">
+            </div>
+            <div class="carousel-item green white-text" href="#three!">
+              <img src="./resources/carousel/car6.jpg" alt="">
+            </div>
+            
           </div>
           </div>
         </div>
@@ -88,7 +98,7 @@
                 existed to help them make their dreams a reality. We are the obsessed, the passionate
                 – We are The West Block Blues.
             </p>
-            <h4>ಕನ್ನಡ ನೆಲದ ಹೆಮ್ಮೆಯ ಬ್ಲೂಸ್ ಗೆಲುವಿನತ್ತ ಸಾಗುತಿದೆ</h4>
+            <h4>ಕನ್ನಡ ನೆಲದ ಹೆಮ್ಮೆಯ ಬ್ಲೂಸ್ ಗೆಲುವಿನತ್ತ ಸಾಗುತಿದೆ !</h4>
 
             <a href="about.php" class="btn btn-large wbb-a-button" style="margin-top:5%;"> Learn More </a>
           </div>

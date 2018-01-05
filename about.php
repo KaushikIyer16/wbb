@@ -105,7 +105,8 @@
 
           <form class="col s12 l6 m12" method="POST" action="">
             <div class="wbb-register-text">
-                <h2 style="">REGISTER <br> WITH US!</h2>
+                <h3 style="">REGISTER WITH US! <br></h3>
+                <h4>ಬನ್ನಿ, ಇತಿಹಾಸದ ಭಾಗವಾಗಿ.</h4>
             </div>
             <div class="row">
               <div class="input-field col l12 m12 s12">

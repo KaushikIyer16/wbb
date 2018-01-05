@@ -53,7 +53,7 @@
         <li><a href="https://www.instagram.com/westblockblues/" target="_blank"><i class="fa fa-2x fa-instagram" aria-hidden="true"></i></a></li>
         <li><a href="https://www.youtube.com/channel/UCiz53QWWrGH7df3nGjrTJZA" target="_blank"><i class="fa fa-2x fa-youtube-play"></i></a></li>
 
-        <li>Developed By: </li>
+        <li>Dev @: </li>
         <li><a href="https://www.linkedin.com/in/kaushik-iyer-8b75a5a3" target="_blank"><div class="fa " style="background: url('./resources/tww.svg');font-size: 2em;width: 40px;height: 100%;margin-top: 18px;background-repeat: no-repeat;"></div></a></li>
       </ul>
     </div>

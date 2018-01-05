@@ -43,7 +43,7 @@
     <?php include 'header.php'; ?>
     <div class="container" id="gallery" style="margin-top: 5%;">
       <?php
-        for ($i=0; $i < 2; $i++) {
+        for ($i=0; $i < 5; $i++) {
           echo '<div class="row">
           <div class="col l6 m6 s12">
             <a href="./resources/gallery/high_res/'.($i*5+1).'.jpg"><img src="./resources/gallery/low_res/'.($i*5+1).'.png" class="img-responsive" style="width:100%;"/></a>
